@@ -1,0 +1,55 @@
+{
+	"details":{
+		"image":"icon.png",
+		"name":"prathyu",
+		"phno":"7981929252",
+		"email":"prathyusha2kakkera@gmail.com",
+		"address":"vignan nirula,palakaluru"
+	},
+	"career":
+	                   {
+                          "info":"to pursue a challenging career and be in a good position"
+                       },
+                       "education" :[
+                       {   
+                          "qualification":"b.tech",
+                          "yearofpassing":"2016-2020",
+                          "institute":"vignan nirula",
+                          "percentage":"80%"
+                       }, 
+                       { 
+                          "qualification":"intermediate",
+                          "yearofpassing":"2014-2016",
+                          "institute":"sri chaitanya",
+                          "percentage":"80%"                           	
+                       },
+                       {
+                           "qualification":"ssc",
+                          "yearofpassing":"2014",
+                          "institute":"gowtham",
+                          "percentage":"90%"
+                       }
+                    ],
+                    
+                    "skills":[{
+                           "title":"programming languages",
+                           "info":["c","c++","java","python","R"]
+                    },
+                    {
+                        "title":"databases",
+                        "info":["SQL","MYSQL","ORACLE"]
+                    },
+                    {
+                    	"title":"operating systems",
+                    	"info":["window","linux","unix"]
+                    }
+                 ],
+                 "Achievements":[{
+                 	"a":"runner in query cracking"
+                 },
+                 {
+                 	"a":"third prize in ppt"
+                 }
+                     
+]
+}
